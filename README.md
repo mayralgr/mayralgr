@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋  Salut!, Hallo!, ¡Hola! 
 
+- 🤓 Majored in Computer Engineering and Applied Computing @[UASLP](http://www.uaslp.mx/) and @[City University of Seattle](https://www.cityu.edu/)
+- 🔭 I’m currently working as Software Enginner at [Nagarro](https://www.nagarro.com/en) 🖥 🤓
+- 📚 I’m currently learning German, ReactJs, C#, and Flutter!
+- 😊 My hobbies are reading, sports ⚽️ 🏀 , videogames and learning
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mayra-lucero-garc%C3%ADa-ram%C3%ADrez-885352121/)
+- 😄 Pronouns: She/Here
+- ⚡ Fun fact: I'm left-handed
+-  ⭐️  I like astronomy (black holes are a great topic) 
 <!--
 **mayralgr/mayralgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
