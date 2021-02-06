@@ -5,7 +5,7 @@
 - 📚 I’m currently learning German, ReactJs, C#, and Flutter!
 - 😊 My hobbies are reading, sports ⚽️ 🏀 , videogames and learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mayra-lucero-garc%C3%ADa-ram%C3%ADrez-885352121/)
-- 😄 Pronouns: She/Here
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm left-handed
 -  ⭐️  I like astronomy (black holes are a great topic) 
 <!--
