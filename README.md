@@ -1,5 +1,6 @@
 ### Hi there 👋  Salut!, Hallo!, ¡Hola! 
 
+- 🔒 Currently in a Master's in Information Security
 - 🤓 Majored in Computer Engineering and Applied Computing @[UASLP](http://www.uaslp.mx/) and @[City University of Seattle](https://www.cityu.edu/)
 - 🔭 I’m currently working as Software Engineer at [Nagarro](https://www.nagarro.com/en) 🖥 🤓
 - 📚 I’m currently learning German, ReactJs, C#, and Flutter!
