@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm left-handed
 -  ⭐️  I like astronomy (black holes are a great topic) 
--  JS, .NET & Java Dev
+-  JS, .NET Aws/Azure Dev
 <!--
 **mayralgr/mayralgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
