@@ -1,8 +1,8 @@
 ### Hi there 👋  Salut!, Hallo!, ¡Hola! 
 
-- 🔒 Currently in a Master's in Information Security
+- 🔒 Master in Information Security
 - 🤓 Majored in Computer Engineering and Applied Computing @[UASLP](http://www.uaslp.mx/) and @[City University of Seattle](https://www.cityu.edu/)
-- 🔭 I’m currently working as Software Engineer at [Nagarro](https://www.nagarro.com/en) 🖥 🤓
+- 🔭 I’m currently working as Software Engineer becoming a DevOps at [Encora](https://www.encora.com/es/) 🖥 🤓
 - 📚 I’m currently learning German, ReactJs, C#, and AWS!
 - 😊 My hobbies are reading, sports ⚽️ 🏀 , videogames and learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mayra-lucero-garc%C3%ADa-ram%C3%ADrez-885352121/)
